@@ -1,0 +1,4 @@
+'.text.html':
+  'Lorempixel img':
+    'prefix': 'loremp'
+    'body': '<img src="http://lorempixel.com/${1:width}/${2:height}"${3: alt="${4:Placeholder}"}>${5}'
