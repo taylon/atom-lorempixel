@@ -1,6 +1,6 @@
 {
   "name": "atom-lorempixel",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Insert an img tag with a placeholder image from lorempixel.com into your code.",
   "repository": "https://github.com/taylon/atom-lorempixel",
   "license": "MIT",
